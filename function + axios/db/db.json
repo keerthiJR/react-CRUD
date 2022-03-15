@@ -1,0 +1,22 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "Emp_Name": "keerthi vasan ",
+      "Emp_Designation": "Software Engineer",
+      "Emp_Salary": "40000",
+      "Emp_Joining_Date": "27/08/2021",
+      "Emp_Department": "React dev",
+      "Emp_id": "API1720"
+    },
+    {
+      "Emp_Name": "saad",
+      "Emp_Designation": "se",
+      "Emp_Salary": "120000",
+      "Emp_Joining_Date": "2022-03-10",
+      "Emp_Department": "IT",
+      "Emp_id": "SAA001",
+      "id": 2
+    }
+  ]
+}

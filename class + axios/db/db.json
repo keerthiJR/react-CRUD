@@ -1,0 +1,31 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "Emp_Name": "vasan",
+      "Emp_Designation": "Software Engineer",
+      "Emp_Salary": "3243534543",
+      "Emp_Joining_Date": "27/08/2021",
+      "Emp_Department": "React dev",
+      "Emp_id": "API1720"
+    },
+    {
+      "id": 2,
+      "Emp_Name": "saaad",
+      "Emp_Designation": "salesforce developer",
+      "Emp_Salary": "43534",
+      "Emp_Joining_Date": "14/01/2022",
+      "Emp_Department": "IT dept",
+      "Emp_id": "API0000"
+    },
+    {
+      "Emp_Name": "bharath",
+      "Emp_Designation": "se",
+      "Emp_Salary": "120000",
+      "Emp_Joining_Date": "2022-03-20",
+      "Emp_Department": "it",
+      "Emp_id": "bur007",
+      "id": 3
+    }
+  ]
+}
